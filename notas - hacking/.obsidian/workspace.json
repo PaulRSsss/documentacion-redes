@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "cef1031a2e869800",
+    "type": "split",
+    "children": [
+      {
+        "id": "876662e825e30043",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d50d898079ac466b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Plantilla.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plantilla"
+            }
+          }
+        ]
+      },
+      {
+        "id": "68e6a8b312250857",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0481ac82544a92e3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d27077bfec8dedb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0960097f465ed08c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cde5105997376a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "614f638b9fc3f740",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "70032a667c9a9625",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84d209836d6f1fce",
+    "type": "split",
+    "children": [
+      {
+        "id": "f869e21f00e97fc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16e5322629a426b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "picoCTF/Plantilla.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Plantilla"
+            }
+          },
+          {
+            "id": "d52f4c831617dca3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "picoCTF/Plantilla.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Plantilla"
+            }
+          },
+          {
+            "id": "deda7cf06ac4fa2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "dbbce2bb2bffab0f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "picoCTF/Plantilla.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Plantilla"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "d50d898079ac466b",
+  "lastOpenFiles": [
+    "Bienvenido.md",
+    "picoCTF/Plantilla.md",
+    "picoCTF/02 - general skills",
+    "picoCTF/01 - general skills",
+    "picoCTF"
+  ]
+}
