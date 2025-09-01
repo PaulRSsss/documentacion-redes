@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - general skills/02 - 2Warm.md",
+                "file": "picoCTF/01 - general skills/03 - Warmed Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - 2Warm"
+              "title": "03 - Warmed Up"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/01 - general skills/02 - 2Warm.md",
+                "file": "picoCTF/01 - general skills/03 - Warmed Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 02 - 2Warm"
+              "title": "Enlaces entrantes de 03 - Warmed Up"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/01 - general skills/02 - 2Warm.md",
+                "file": "picoCTF/01 - general skills/03 - Warmed Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 02 - 2Warm"
+              "title": "Enlaces salientes de 03 - Warmed Up"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/01 - general skills/02 - 2Warm.md",
+                "file": "picoCTF/01 - general skills/03 - Warmed Up.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 02 - 2Warm"
+              "title": "Esquema de 03 - Warmed Up"
             }
           }
         ]
@@ -172,6 +172,7 @@
   "active": "d50d898079ac466b",
   "lastOpenFiles": [
     "picoCTF/Plantilla.md",
+    "picoCTF/01 - general skills/03 - Warmed Up.md",
     "picoCTF/01 - general skills/02 - 2Warm.md",
     "picoCTF/01 - general skills/01 - LETS WARM UP.md",
     "Bienvenido.md",
