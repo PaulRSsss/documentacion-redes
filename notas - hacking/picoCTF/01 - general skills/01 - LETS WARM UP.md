@@ -5,6 +5,8 @@ DESCRIPCION
 SOLUCION
 Busqué las tablas de datos y utilicé una herramienta de conversión en internet para pasarlo de hexadecimal a ASCCI automáticamente
 
+picoCTF{p}
+
 NOTAS ADICIONALES
 Un dato hexadecimal empieza con 0x normalmente
 
