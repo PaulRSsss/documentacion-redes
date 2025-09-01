@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Plantilla.md",
+                "file": "picoCTF/01 - general skills/01 - LETS WARM UP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla"
-            }
-          }
-        ]
-      },
-      {
-        "id": "68e6a8b312250857",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0481ac82544a92e3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "01 - LETS WARM UP"
             }
           }
         ]
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Plantilla.md",
+                "file": "picoCTF/01 - general skills/01 - LETS WARM UP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Plantilla"
+              "title": "Enlaces entrantes de 01 - LETS WARM UP"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Plantilla.md",
+                "file": "picoCTF/01 - general skills/01 - LETS WARM UP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Plantilla"
+              "title": "Enlaces salientes de 01 - LETS WARM UP"
             }
           },
           {
@@ -158,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Plantilla.md",
+                "file": "picoCTF/01 - general skills/01 - LETS WARM UP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Plantilla"
+              "title": "Esquema de 01 - LETS WARM UP"
             }
           }
         ]
@@ -187,8 +171,9 @@
   },
   "active": "d50d898079ac466b",
   "lastOpenFiles": [
-    "Bienvenido.md",
     "picoCTF/Plantilla.md",
+    "picoCTF/01 - general skills/01 - LETS WARM UP.md",
+    "Bienvenido.md",
     "picoCTF/02 - general skills",
     "picoCTF/01 - general skills",
     "picoCTF"
