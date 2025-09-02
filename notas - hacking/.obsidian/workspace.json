@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - general skills/04 - Bases.md",
+                "file": "picoCTF/01 - general skills/09- Glitch Cat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 - Bases"
+              "title": "09- Glitch Cat"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/01 - general skills/04 - Bases.md",
+                "file": "picoCTF/01 - general skills/09- Glitch Cat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 04 - Bases"
+              "title": "Enlaces entrantes de 09- Glitch Cat"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/01 - general skills/04 - Bases.md",
+                "file": "picoCTF/01 - general skills/09- Glitch Cat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 04 - Bases"
+              "title": "Enlaces salientes de 09- Glitch Cat"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/01 - general skills/04 - Bases.md",
+                "file": "picoCTF/01 - general skills/09- Glitch Cat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 04 - Bases"
+              "title": "Esquema de 09- Glitch Cat"
             }
           }
         ]
@@ -171,10 +171,18 @@
   },
   "active": "d50d898079ac466b",
   "lastOpenFiles": [
-    "picoCTF/01 - general skills/03 - Warmed Up.md",
-    "picoCTF/01 - general skills/04 - Bases.md",
-    "picoCTF/01 - general skills/02 - 2Warm.md",
+    "picoCTF/01 - general skills/07 - What's a net cat.md",
+    "picoCTF/01 - general skills/08 - Plumbing.md",
+    "picoCTF/01 - general skills/09- Glitch Cat.md",
     "picoCTF/Plantilla.md",
+    "picoCTF/01 - general skills/06 - Obedient Cat.md",
+    "picoCTF/01 - general skills/05 - First Grep.md",
+    "picoCTF/05 - First Grep.md",
+    "Sin título.md",
+    "picoCTF/01 - general skills/04 - Bases.md",
+    "Sin nombre",
+    "picoCTF/01 - general skills/03 - Warmed Up.md",
+    "picoCTF/01 - general skills/02 - 2Warm.md",
     "picoCTF/01 - general skills/01 - LETS WARM UP.md",
     "Bienvenido.md",
     "picoCTF/02 - general skills",
