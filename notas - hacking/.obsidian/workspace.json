@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - general skills/09- Glitch Cat.md",
+                "file": "picoCTF/01 - general skills/10 - Nice netcat....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09- Glitch Cat"
+              "title": "10 - Nice netcat..."
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/01 - general skills/09- Glitch Cat.md",
+                "file": "picoCTF/10 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 09- Glitch Cat"
+              "title": "Enlaces entrantes de 10 -"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/01 - general skills/09- Glitch Cat.md",
+                "file": "picoCTF/10 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 09- Glitch Cat"
+              "title": "Enlaces salientes de 10 -"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/01 - general skills/09- Glitch Cat.md",
+                "file": "picoCTF/10 -.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 09- Glitch Cat"
+              "title": "Esquema de 10 -"
             }
           }
         ]
@@ -171,10 +171,12 @@
   },
   "active": "d50d898079ac466b",
   "lastOpenFiles": [
+    "picoCTF/01 - general skills/09 - Glitch Cat.md",
+    "picoCTF/01 - general skills/10 - Nice netcat....md",
+    "picoCTF/Plantilla.md",
+    "picoCTF/10 -.md",
     "picoCTF/01 - general skills/07 - What's a net cat.md",
     "picoCTF/01 - general skills/08 - Plumbing.md",
-    "picoCTF/01 - general skills/09- Glitch Cat.md",
-    "picoCTF/Plantilla.md",
     "picoCTF/01 - general skills/06 - Obedient Cat.md",
     "picoCTF/01 - general skills/05 - First Grep.md",
     "picoCTF/05 - First Grep.md",
