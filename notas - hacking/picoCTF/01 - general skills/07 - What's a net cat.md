@@ -1,4 +1,3 @@
-
 DESCRIPCION
 Usar netcat (nc) será muy importante. ¿Puedes conectarte a jupiter.challenges.picoctf.org en el puerto 41120 para obtener la bandera?
  
