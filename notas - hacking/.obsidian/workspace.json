@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/03 - general skills/06 - fixme2.py.md",
+                "file": "picoCTF/01 -Web/05 - picobrowser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 - fixme2.py"
+              "title": "05 - picobrowser"
+            }
+          },
+          {
+            "id": "9fa7acbf03c9c5a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/01 -Web/05 - picobrowser.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 - picobrowser"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -212,13 +226,30 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "1610d8d88e1ca32c",
+  "active": "9fa7acbf03c9c5a8",
   "lastOpenFiles": [
+    "picoCTF/01 -Web/06 - Client-side-again.md",
+    "picoCTF/01 -Web/05 - picobrowser.md",
+    "picoCTF/01 -Web/03 - logon.md",
+    "picoCTF/Plantilla.md",
+    "Bienvenido.md",
+    "picoCTF/01 -Web/04 - dont-use-client-side.md",
+    "picoCTF/01 -Web/02 - where are the robots.md",
+    "picoCTF/01 -Web/01 - Insp3ct0r.md",
+    "picoCTF/01 - general skills/01 - LETS WARM UP.md",
+    "picoCTF/09 - general skills/01 - GET aHEAD.md",
+    "picoCTF/Sin título.base",
+    "picoCTF/Sin nombre",
+    "picoCTF/Sin título.canvas",
+    "picoCTF/09 - general skills/02 - Cookies.md",
+    "picoCTF/09 - general skills/03 - Scavenger Hunt.md",
+    "picoCTF/03 - general skills/06 - fixme2.py.md",
+    "picoCTF/01 -Web",
+    "01 - Web",
     "picoCTF/03 - general skills/07 - PW Crack 1.md",
     "picoCTF/03 - general skills/10 - Serpentine.md",
     "picoCTF/03 - general skills/09 - PW Crack 3.md",
     "picoCTF/03 - general skills/08 - PW Crack 2.md",
-    "picoCTF/03 - general skills/06 - fixme2.py.md",
     "picoCTF/03 - general skills/05 - fixme1.py.md",
     "picoCTF/03 - general skills/04 - convertme.py.md",
     "picoCTF/03 - general skills/03 - Codebook.md",
@@ -230,23 +261,9 @@
     "picoCTF/03 - general skills/02 - runme.py.md",
     "picoCTF/03 - general skills/01 - Super SSh.md",
     "picoCTF/02 - general skills/10 - First Find.md",
-    "picoCTF/Plantilla.md",
-    "picoCTF/Sin título.md",
     "picoCTF/02 - general skills/09 - Big zip.md",
     "picoCTF/01 - general skills/10 - Nice netcat....md",
     "picoCTF/02 - general skills/08 - repetitions.md",
-    "picoCTF/02 - general skills/06 - Tab, Tab, Attack.md",
-    "picoCTF/09 - general skills/02 - Cookies.md",
-    "picoCTF/09 - general skills/01 - GET aHEAD.md",
-    "picoCTF/09 - general skills/03 - Scavenger Hunt.md",
-    "picoCTF/09 - general skills",
-    "picoCTF/01 - general skills/01 - LETS WARM UP.md",
-    "picoCTF/01 - general skills/Sin nombre",
-    "picoCTF/03 - general skills/02 - Runme.py.md",
-    "picoCTF/03 - general skills/04 - Convertme.py.md",
-    "picoCTF/03 - general skills/01 - Super SSH.md",
-    "picoCTF/03 - general skills",
-    "Sin nombre",
-    "picoCTF/02 - general skills"
+    "picoCTF/09 - general skills"
   ]
 }
