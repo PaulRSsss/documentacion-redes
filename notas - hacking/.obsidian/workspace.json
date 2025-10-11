@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/PrimerExamenParcialP1/08 -.md",
+                "file": "picoCTF/PrimerExamenParcialP1/08 - flag_shop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 -"
+              "title": "08 - flag_shop"
             }
           },
           {
@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/PrimerExamenParcialP1/09 -.md",
+                "file": "picoCTF/PrimerExamenParcialP1/09 - SansAlpha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 -"
+              "title": "09 - SansAlpha"
             }
           },
           {
@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/PrimerExamenParcialP1/08 -.md",
+                "file": "picoCTF/PrimerExamenParcialP1/10 - Specialer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 -"
+              "title": "10 - Specialer"
             }
           }
         ],
@@ -298,21 +298,25 @@
   },
   "active": "03eead928954101a",
   "lastOpenFiles": [
+    "picoCTF/PrimerExamenParcialP1/09 - SansAlpha.md",
+    "picoCTF/PrimerExamenParcialP1/08 - flag_shop.md",
     "picoCTF/PrimerExamenParcialP1/07 - dont-you-love-banners.md",
-    "picoCTF/PrimerExamenParcialP1/04 - rust fixme 1.md.md",
-    "picoCTF/PrimerExamenParcialP1/06 - rust fixme 3.md.md",
     "picoCTF/PrimerExamenParcialP1/05 - rust fixme 2.md.md",
     "picoCTF/PrimerExamenParcialP1/03 - Python Wrangling.md",
-    "picoCTF/PrimerExamenParcialP1/10 -.md",
-    "picoCTF/PrimerExamenParcialP1/09 -.md",
-    "picoCTF/PrimerExamenParcialP1/08 -.md",
-    "picoCTF/Plantilla.md",
+    "picoCTF/PrimerExamenParcialP1/04 - rust fixme 1.md.md",
     "picoCTF/PrimerExamenParcialP1/02 - HashingJobApp.md",
+    "picoCTF/02 - general skills/06 - Tab, Tab, Attack.md",
+    "picoCTF/02 - general skills/01 - Based.md",
+    "picoCTF/02 - general skills/02 - strings it.md",
+    "picoCTF/02 - general skills/03 - Wave a flag.md",
+    "picoCTF/03 - Web/02 - More SQLi.md",
+    "picoCTF/PrimerExamenParcialP1/06 - rust fixme 3.md.md",
+    "picoCTF/PrimerExamenParcialP1/10 - Specialer.md",
+    "picoCTF/Plantilla.md",
     "picoCTF/PrimerExamenParcialP1/01 - FANTASY CTF.md",
     "picoCTF/03 - Web/03 - JaWT Scratchpad.md",
     "picoCTF/PrimerExamenParcialP2",
     "picoCTF/PrimerExamenParcialP1",
-    "picoCTF/03 - Web/02 - More SQLi.md",
     "picoCTF/03 - Web/01 - Irish-Name-Repo 1.md",
     "Bienvenido.md",
     "picoCTF/02 - Web/02 - Cookies.md",
@@ -323,10 +327,6 @@
     "picoCTF/09 - general skills/03 - Scavenger Hunt.md",
     "picoCTF/09 - general skills/02 - Cookies.md",
     "picoCTF/09 - general skills/01 - GET aHEAD.md",
-    "picoCTF/03 - general skills/09 - PW Crack 3.md",
-    "picoCTF/03 - general skills/08 - PW Crack 2.md",
-    "picoCTF/03 - general skills/03 - Codebook.md",
-    "picoCTF/03 - general skills/01 - Super SSh.md",
     "picoCTF/02 - Web",
     "picoCTF/01 -Web/Sin nombre",
     "picoCTF/Sin título.base",
