@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/02 - Web/03 - Scavenger Hunt.md",
+                "file": "picoCTF/03 - Web/02 - More SQLi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Scavenger Hunt"
+              "title": "02 - More SQLi"
             }
           }
         ],
@@ -187,6 +187,8 @@
   "active": "2085940aa832ddb9",
   "lastOpenFiles": [
     "picoCTF/03 - Web/03 - JaWT Scratchpad.md",
+    "picoCTF/03 - Web/02 - More SQLi.md",
+    "picoCTF/03 - Web/01 - Irish-Name-Repo 1.md",
     "picoCTF/02 - Web/03 - Scavenger Hunt.md",
     "picoCTF/02 - Web/01 - GET aHEAD.md",
     "picoCTF/02 - Web/02 - Cookies.md",
@@ -209,8 +211,6 @@
     "picoCTF/03 - general skills/06 - fixme2.py.md",
     "picoCTF/03 - general skills/05 - fixme1.py.md",
     "picoCTF/03 - general skills/04 - convertme.py.md",
-    "picoCTF/03 - Web/01 - Irish-Name-Repo 1.md",
-    "picoCTF/03 - Web/02 - More SQLi.md",
     "picoCTF/PrimerExamenParcialP2/01 - Bookmarklet.md",
     "picoCTF/PrimerExamenParcialP2",
     "picoCTF/PrimerExamenParcialP1",
