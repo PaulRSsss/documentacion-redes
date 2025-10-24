@@ -265,12 +265,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - Crypto/05 - la cifra de.md",
+                "file": "picoCTF/02 - Crypto/01 - rsa pop quiz (exp.py).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - la cifra de"
+              "title": "01 - rsa pop quiz (exp.py)"
             }
           }
         ],
@@ -424,6 +424,10 @@
   },
   "active": "eb5bd3eea6911f7a",
   "lastOpenFiles": [
+    "picoCTF/Plantilla.md",
+    "picoCTF/02 - Crypto/01 - rsa pop quiz (exp.py).md",
+    "picoCTF/01 - Crypto/05 - la cifra de.md",
+    "picoCTF/02 - Crypto",
     "picoCTF/01 - Crypto/04 - Easy 1.md",
     "picoCTF/01 - Crypto/03 - Caesar.md",
     "picoCTF/01 - Crypto/01 - The numbers.md",
@@ -431,7 +435,6 @@
     "picoCTF/01 - Crypto/08 - interencded.md",
     "picoCTF/01 - Crypto/07 - waves over lambda.md",
     "picoCTF/01 - Crypto/06 - Tapping.md",
-    "picoCTF/01 - Crypto/05 - la cifra de.md",
     "picoCTF/04 - General Skills/05 - time machine.md",
     "picoCTF/04 - General Skills/07 - collaborative development.md",
     "picoCTF/04 - General Skills/08 - binary search.md",
@@ -442,7 +445,6 @@
     "picoCTF/04 - General Skills/03 - special.md",
     "picoCTF/04 - General Skills/02 - chrono.md",
     "picoCTF/04 - General Skills/01 - permissions.md",
-    "picoCTF/Plantilla.md",
     "picoCTF/01 - Crypto",
     "picoCTF/05 - Web/01 - Includes.md",
     "picoCTF/04 - General Skills",
@@ -451,7 +453,6 @@
     "picoCTF/05 - Web/05 - Power Cookie.md",
     "picoCTF/05 - Web/04 - Local Authority.md",
     "picoCTF/05 - Web/02 - Inspect HTML.md",
-    "picoCTF/05 - Web/09 - Unminify.md",
     "picoCTF/05 - Web",
     "Pasted image 20251021143557.png",
     "picoCTF/04 - Web",
@@ -460,7 +461,6 @@
     "picoCTF/03 - Web",
     "picoCTF/02 - Web",
     "picoCTF/01 -Web/Sin nombre",
-    "picoCTF/Sin título.base",
     "picoCTF/Sin título.canvas"
   ]
 }
