@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/03 - Web/02 - More SQLi.md",
+                "file": "picoCTF/04 - Web/04 - Most Cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - More SQLi"
+              "title": "04 - Most Cookies"
             }
           }
         ],
@@ -186,9 +186,17 @@
   },
   "active": "2085940aa832ddb9",
   "lastOpenFiles": [
-    "picoCTF/03 - Web/03 - JaWT Scratchpad.md",
-    "picoCTF/03 - Web/02 - More SQLi.md",
+    "picoCTF/04 - Web/03 - Trickster.md",
+    "picoCTF/04 - Web/02 - SOAP.md",
+    "picoCTF/04 - Web/01 - MatchTheRegex.md",
+    "picoCTF/04 - Web/04 - Most Cookies.md",
     "picoCTF/03 - Web/01 - Irish-Name-Repo 1.md",
+    "picoCTF/03 - Web/02 - More SQLi.md",
+    "picoCTF/03 - Web/03 - JaWT Scratchpad.md",
+    "Pasted image 20251021143557.png",
+    "picoCTF/Plantilla.md",
+    "picoCTF/04 - Web",
+    "picoCTF/Sin título.md",
     "picoCTF/02 - Web/03 - Scavenger Hunt.md",
     "picoCTF/02 - Web/01 - GET aHEAD.md",
     "picoCTF/02 - Web/02 - Cookies.md",
@@ -205,13 +213,6 @@
     "picoCTF/01 -Web/05 - picobrowser.md",
     "picoCTF/01 -Web/06 - Client-side-again.md",
     "picoCTF/01 - general skills/01 - LETS WARM UP.md",
-    "picoCTF/02 - general skills/10 - First Find.md",
-    "picoCTF/02 - general skills/09 - Big zip.md",
-    "picoCTF/03 - general skills/07 - PW Crack 1.md",
-    "picoCTF/03 - general skills/06 - fixme2.py.md",
-    "picoCTF/03 - general skills/05 - fixme1.py.md",
-    "picoCTF/03 - general skills/04 - convertme.py.md",
-    "picoCTF/PrimerExamenParcialP2/01 - Bookmarklet.md",
     "picoCTF/PrimerExamenParcialP2",
     "picoCTF/PrimerExamenParcialP1",
     "picoCTF/03 - Web",
@@ -221,7 +222,6 @@
     "picoCTF/Sin título.canvas",
     "picoCTF/01 -Web",
     "01 - Web",
-    "picoCTF/Nueva carpeta",
-    "picoCTF/code.py"
+    "picoCTF/Nueva carpeta"
   ]
 }
