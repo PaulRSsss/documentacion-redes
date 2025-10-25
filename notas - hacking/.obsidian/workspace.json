@@ -307,12 +307,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/02 - Forensic/05 - shark on wire 2.md",
+                "file": "picoCTF/03 - Forensic/05 - MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - shark on wire 2"
+              "title": "05 - MacroHard WeakEdge"
             }
           }
         ],
@@ -466,18 +466,25 @@
   },
   "active": "ca17059d458424b9",
   "lastOpenFiles": [
+    "picoCTF/03 - Forensic/04 - tunn3l_v1s10n.md",
+    "picoCTF/03 - Forensic/03 - Matryoshka doll.md",
+    "picoCTF/03 - Forensic/02 - Webnet1.md",
+    "picoCTF/03 - Forensic/01 - WebNet0.md",
+    "picoCTF/03 - Forensic/05 - MacroHard WeakEdge.md",
+    "picoCTF/Plantilla.md",
+    "picoCTF/03 - Web/02 - More SQLi.md",
+    "picoCTF/02 - Forensic/05 - shark on wire 2.md",
+    "picoCTF/03 - Forensic",
     "picoCTF/02 - Forensic/04 - like1000.md",
     "picoCTF/02 - Forensic/03 - c0rrupt.md",
     "picoCTF/02 - Forensic/02 - WhitePages.md",
     "picoCTF/02 - Forensic/01 - m00nwalk.md",
-    "picoCTF/02 - Forensic/05 - shark on wire 2.md",
     "picoCTF/01 - Forensic/01 - Glory of the Garden.md",
     "picoCTF/02 - Forensic",
     "picoCTF/01 - Forensic/02 - So Meta.md",
     "picoCTF/01 - Forensic/03 - shark on wire 1.md",
     "picoCTF/01 - Forensic/04 - extensions.md",
     "picoCTF/01 - Forensic/05 - What Lies Within.md",
-    "picoCTF/Plantilla.md",
     "picoCTF/02 - Crypto/01 - rsa pop quiz (exp.py).md",
     "picoCTF/01 - Forensic",
     "picoCTF/01 - Crypto/05 - la cifra de.md",
@@ -489,12 +496,6 @@
     "picoCTF/01 - Crypto/08 - interencded.md",
     "picoCTF/01 - Crypto/07 - waves over lambda.md",
     "picoCTF/01 - Crypto/06 - Tapping.md",
-    "picoCTF/04 - General Skills/05 - time machine.md",
-    "picoCTF/04 - General Skills/07 - collaborative development.md",
-    "picoCTF/04 - General Skills/08 - binary search.md",
-    "picoCTF/04 - General Skills/10 - ASCII Numbers.md",
-    "picoCTF/04 - General Skills/09 - binhexa.md",
-    "picoCTF/04 - General Skills/06 - blame game.md",
     "picoCTF/01 - Crypto",
     "picoCTF/04 - General Skills",
     "picoCTF/05 - Web",
@@ -502,7 +503,6 @@
     "picoCTF/04 - Web",
     "picoCTF/PrimerExamenParcialP2",
     "picoCTF/PrimerExamenParcialP1",
-    "picoCTF/03 - Web",
     "picoCTF/Sin título.canvas"
   ]
 }
