@@ -1,0 +1,1 @@
+profe este olvidé documentarlo y no guardé la bandera apero si lo hice en picoCTF
