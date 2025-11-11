@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/05 - Crypto/02 - creedstuff.md",
+                "file": "picoCTF/01 - Reversing/01 - valut door-training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - creedstuff"
+              "title": "01 - valut door-training"
+            }
+          },
+          {
+            "id": "a732ba97a602f2c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/01 - Reversing/02 - valut-door-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 - valut-door-1"
+            }
+          },
+          {
+            "id": "ef49c5cf2544cf45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/01 - Reversing/03 - valut-door-3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 - valut-door-3"
+            }
+          },
+          {
+            "id": "5ca8f4a3ac6041ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/01 - Reversing/04 - valut-door-4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04 - valut-door-4"
+            }
+          },
+          {
+            "id": "7e5d59ff4148aea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/01 - Reversing/05 - valut-door-5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 - valut-door-5"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -169,14 +226,23 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "126937ec95faf3e8",
+  "active": "7e5d59ff4148aea2",
   "lastOpenFiles": [
-    "picoCTF/05 - Crypto/03 - EVEN RSA CAN BE BROKEN.md",
+    "picoCTF/01 - Reversing/04 - valut-door-4.md",
+    "picoCTF/01 - Reversing/05 - valut-door-5.md",
+    "picoCTF/01 - Reversing/03 - valut-door-3.md",
+    "picoCTF/01 - Reversing/01 - valut door-training.md",
+    "picoCTF/01 - Reversing/02 - valut-door-1.md",
+    "picoCTF/Plantilla.md",
+    "picoCTF/05 - Crypto/09 - Vigenere.md",
+    "picoCTF/01 - Reversing",
+    "picoCTF/05 - Crypto/07 - substitution1.md",
+    "picoCTF/05 - Crypto/05 - rail-fence.md",
+    "picoCTF/05 - Crypto/04 - morse code.md",
     "picoCTF/05 - Crypto/02 - creedstuff.md",
+    "picoCTF/05 - Crypto/03 - EVEN RSA CAN BE BROKEN.md",
     "picoCTF/05 - Crypto/01 - Crack the power.md",
     "picoCTF/05 - Crypto/08 - substitution2.md",
-    "picoCTF/05 - Crypto/09 - Vigenere.md",
-    "picoCTF/05 - Crypto/07 - substitution1.md",
     "picoCTF/05 - Crypto/06 - substitution0.md",
     "picoCTF/05 - Forensic/03 - Redaction gone wrong.md",
     "picoCTF/05 - Forensic/09 - Ph4nt0m 1ntrud3r.md",
@@ -189,14 +255,6 @@
     "picoCTF/05 - Forensic/04 - hideme.md",
     "picoCTF/05 - Forensic/02 - St3go.md",
     "picoCTF/01 - Forensic/04 - extensions.md",
-    "picoCTF/01 - Forensic/03 - shark on wire 1.md",
-    "picoCTF/01 - Forensic/02 - So Meta.md",
-    "picoCTF/01 - Crypto/07 - waves over lambda.md",
-    "picoCTF/01 - Crypto/06 - Tapping.md",
-    "picoCTF/01 - Crypto/05 - la cifra de.md",
-    "picoCTF/01 - Crypto/04 - Easy 1.md",
-    "picoCTF/01 - Crypto/03 - Caesar.md",
-    "picoCTF/01 - Crypto/02 - 13.md",
     "picoCTF/05 - Crypto",
     "picoCTF/04 - Crypto",
     "picoCTF/03 - Crypto",
@@ -206,7 +264,6 @@
     "picoCTF/03 - Forensic",
     "picoCTF/02 - Forensic",
     "picoCTF/01 - Forensic",
-    "picoCTF/02 - Crypto",
     "Pasted image 20251021143557.png",
     "picoCTF/Sin título.canvas"
   ]
